@@ -1,0 +1,6 @@
+@BackendBootcamp.Homework.Week2.API_HostAddress = http://localhost:5079
+
+GET {{BackendBootcamp.Homework.Week2.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
